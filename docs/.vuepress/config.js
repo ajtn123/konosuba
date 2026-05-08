@@ -16,6 +16,10 @@ export default defineUserConfig({
   bundler: viteBundler(),
   shouldPrefetch: false,
 
+  markdown: {
+    breaks: true
+  },
+
   theme: plumeTheme({
     hostname: 'https://ajtn123.github.io/konosuba',
 

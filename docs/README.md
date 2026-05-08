@@ -12,7 +12,7 @@ config:
           link: /read/
         - theme: alt
           text: 官方网站
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://sneakerbunko.jp/series/konosuba/
   - type: features
     features:
       - title: 暁 なつめ
