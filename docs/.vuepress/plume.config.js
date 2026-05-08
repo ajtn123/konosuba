@@ -9,7 +9,7 @@ export default defineThemeConfig({
   ],
 
   footer: {
-    message: '你好',
+    message: '阿克西斯教徒努力就能做到，即便失败不是信徒的错，不能成功都是世界的错。从不开心的事情中逃避即可，逃避不是失败。',
   },
 
   navbar: defineNavbarConfig([
