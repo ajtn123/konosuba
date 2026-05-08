@@ -1,7 +1,7 @@
 import { defineThemeConfig, defineCollections, defineCollection, defineNavbarConfig } from 'vuepress-theme-plume';
 
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: '/plume.svg',
   appearance: true,
 
   social: [

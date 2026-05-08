@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '为美好的世界献上祝福！',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/plume.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/konosuba/plume.png' }],
   ],
 
   search: { provider: 'local' },
