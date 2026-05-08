@@ -29,12 +29,8 @@ export default defineUserConfig({
 
     autoFrontmatter: false,
 
-    /* 页内信息 */
-    // editLink: true,
-    // lastUpdated: true,
-    // contributors: true,
-    // changelog: false,
-    // readingTime: true,
+    lastUpdated: false,
+    contributors: false,
 
     /**
      * markdown
