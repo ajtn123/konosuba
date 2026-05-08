@@ -55,7 +55,7 @@ const toggleCollapse = () => {
     </div>
     <div v-show="!isCollapsed" class="iv-content">
       <div v-show="!isTextView" class="iv-image-view">
-        <img :src="displaySrc" :alt="alt" />
+        <img :src="displaySrc" :alt="alt" loading="lazy" />
       </div>
       <div v-show="isTextView" class="iv-text-view">
         <slot />
