@@ -27,4 +27,8 @@ config:
         details: 译者
       - title: Charleszhang
         details: 图源 / 录入 / 校对
+      - title: kerorokun
+        details: 图源
+      - title: lasthm
+        details: 录入
 ---
