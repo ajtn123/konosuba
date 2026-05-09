@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  mark.js@8.11.1: 9dd05f6499e2392f59f17854fd454d3a28d4ccd4f94972e178ac6325fca0b5fd
+
 importers:
 
   .:
@@ -3403,7 +3406,7 @@ snapshots:
       '@vueuse/integrations': 14.3.0(focus-trap@8.2.0)(qrcode@1.5.4)(vue@3.5.34(typescript@6.0.3))
       chokidar: 5.0.0
       focus-trap: 8.2.0
-      mark.js: 8.11.1
+      mark.js: 8.11.1(patch_hash=9dd05f6499e2392f59f17854fd454d3a28d4ccd4f94972e178ac6325fca0b5fd)
       minisearch: 7.2.0
       p-map: 7.0.4
       vue: 3.5.34(typescript@6.0.3)
@@ -4477,7 +4480,7 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  mark.js@8.11.1: {}
+  mark.js@8.11.1(patch_hash=9dd05f6499e2392f59f17854fd454d3a28d4ccd4f94972e178ac6325fca0b5fd): {}
 
   markdown-it-anchor@9.2.0(@types/markdown-it@14.1.2)(markdown-it@14.1.1):
     dependencies:

@@ -15,15 +15,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 26
+
       - uses: pnpm/action-setup@v6
         with:
           version: 11
           run_install: true
-
-      - uses: actions/setup-node@v6
-        with:
-          node-version: 26
-          cache: pnpm
 
       - name: 构建
         run: pnpm run docs:build

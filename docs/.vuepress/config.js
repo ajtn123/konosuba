@@ -12,13 +12,20 @@ export default defineUserConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/konosuba/plume.png' }],
   ],
 
-  search: { provider: 'local' },
   bundler: viteBundler(),
-  shouldPrefetch: false,
 
-  markdown: {
-    breaks: true
+  extendsBundlerOptions: (options, app) => {
+    options.viteOptions ??= {};
+    options.viteOptions.build ??= {};
+    options.viteOptions.build.chunkSizeWarningLimit = 4096;
+    options.viteOptions.build.rolldownOptions ??= {};
+    options.viteOptions.build.rolldownOptions.checks ??= {};
+    options.viteOptions.build.rolldownOptions.checks.pluginTimings = false;
   },
+
+  shouldPrefetch: false,
+  search: { provider: 'local' },
+  markdown: { breaks: true },
 
   theme: plumeTheme({
     hostname: 'https://ajtn123.github.io/konosuba',

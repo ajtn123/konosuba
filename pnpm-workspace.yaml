@@ -5,3 +5,5 @@ allowBuilds:
 onlyBuiltDependencies:
   - "@parcel/watcher"
   - esbuild
+patchedDependencies:
+  mark.js@8.11.1: patches/mark.js@8.11.1.patch
