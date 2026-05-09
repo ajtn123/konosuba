@@ -39,4 +39,6 @@ config:
         details: 译者 / 校对
       - title: 叶子
         details: 译者
+      - title: 超凡y
+        details: 译者
 ---
