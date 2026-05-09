@@ -19,12 +19,10 @@ config:
         details: 作者
       - title: 三嶋 くろね
         details: 插图
-      - title: 角川书店
-        details: 出版
-      - title: 角川 Sneaker
-        details: 文库
       - title: kazano
         details: 译者
+      - title: 角川书店
+        details: 出版
       - title: Charleszhang
         details: 图源 / 录入 / 校对
       - title: kerorokun
@@ -32,5 +30,7 @@ config:
       - title: lasthm
         details: 录入
       - title: 暮林
+        details: 录入
+      - title: kid
         details: 录入
 ---
