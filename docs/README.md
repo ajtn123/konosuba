@@ -33,4 +33,10 @@ config:
         details: 录入
       - title: kid
         details: 录入
+      - title: lolihunter2
+        details: 译者
+      - title: サダメ
+        details: 译者 / 校对
+      - title: 叶子
+        details: 译者
 ---
