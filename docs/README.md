@@ -11,8 +11,8 @@ config:
           text: 开始阅读
           link: /read/
         - theme: alt
-          text: 官方网站
-          link: https://sneakerbunko.jp/series/konosuba/
+          text: 相关链接
+          link: /links
   - type: features
     features:
       - title: 暁 なつめ
