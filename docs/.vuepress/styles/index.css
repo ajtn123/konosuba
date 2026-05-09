@@ -1,0 +1,6 @@
+.vp-doc-aside-outline .root>li>.nested,
+.vp-local-nav-outline-dropdown .outline>.nested>li>.nested {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1em;
+}
