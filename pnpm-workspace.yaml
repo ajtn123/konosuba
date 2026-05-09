@@ -1,0 +1,7 @@
+shamefullyHoist: true
+shellEmulator: true
+allowBuilds:
+  esbuild: true
+onlyBuiltDependencies:
+  - "@parcel/watcher"
+  - esbuild
