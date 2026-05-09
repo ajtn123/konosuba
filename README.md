@@ -7,10 +7,7 @@
 ## 本地食用
 
 ```
-git clone https://github.com/ajtn123/konosuba.git
-cd konosuba
-git checkout gh-pages
-cd ..
+git clone --branch gh-pages --single-branch https://github.com/ajtn123/konosuba.git
 python -m http.server 8000
 explorer http://localhost:8000/konosuba/
 ```
