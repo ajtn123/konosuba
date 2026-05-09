@@ -77,6 +77,10 @@ const toggleCollapse = () => {
   display: none;
 }
 
+.image-view.collapsed .iv-header {
+  border-bottom: none;
+}
+
 .iv-header {
   display: flex;
   align-items: center;
