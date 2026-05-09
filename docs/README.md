@@ -23,6 +23,8 @@ config:
         details: 出版
       - title: 角川 Sneaker
         details: 文库
-      - title: aaa
-        details: 翻译
+      - title: kazano
+        details: 译者
+      - title: Charleszhang
+        details: 图源 / 录入 / 校对
 ---
