@@ -8,10 +8,6 @@ export default defineThemeConfig({
     { icon: 'github', link: 'https://github.com/ajtn123/konosuba' },
   ],
 
-  footer: {
-    message: '阿克西斯教徒努力就能做到，即便失败不是信徒的错，不能成功都是世界的错。从不开心的事情中逃避即可，逃避不是失败。',
-  },
-
   navbar: defineNavbarConfig([
     {
       text: '首页',
@@ -74,4 +70,13 @@ export default defineThemeConfig({
       ]
     },
   ]),
+
+  footer: {
+    message: '阿克西斯教徒努力就能做到，失败也不是信徒的错，不能成功都是世界的错。从不开心的事情中逃避即可，逃避不是失败。'
+  },
+
+  notFound: {
+    quote: '注意：此页面已被阿克西斯教团征用。',
+    linkText: '一键入教'
+  }
 });
