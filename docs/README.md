@@ -16,13 +16,18 @@ config:
   - type: features
     features:
       - title: 暁なつめ
-        details: 作者
+        details: © 作者
+        icon: tabler:pencil
       - title: 三嶋くろね
-        details: 插图
+        details: © 插图
+        icon: tabler:image-generation
       - title: kazano
-        details: 译者
+        details: © 译者
+        icon: tabler:language
       - title: 角川书店
-        details: 出版
+        details: © 出版
+        icon: tabler:book-2
+
       - title: Charleszhang
         details: 图源 / 录入 / 校对
       - title: kerorokun
