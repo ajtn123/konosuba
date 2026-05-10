@@ -9,7 +9,7 @@
 ```
 git clone --branch gh-pages --single-branch https://github.com/ajtn123/konosuba.git
 python -m http.server 8000
-explorer http://localhost:8000/konosuba/
+start http://localhost:8000/konosuba/
 ```
 
 ## 免责声明
