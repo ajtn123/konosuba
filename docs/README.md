@@ -41,4 +41,6 @@ config:
         details: 译者
       - title: 超凡y
         details: 译者
+      - title: 月灵
+        details: 图源 / 录入
 ---
