@@ -15,9 +15,9 @@ config:
           link: /links
   - type: features
     features:
-      - title: 暁 なつめ
+      - title: 暁なつめ
         details: 作者
-      - title: 三嶋 くろね
+      - title: 三嶋くろね
         details: 插图
       - title: kazano
         details: 译者
