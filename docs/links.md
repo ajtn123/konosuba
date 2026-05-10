@@ -102,4 +102,7 @@ groups:
       - name: 轻之国度
         link: https://www.lightnovel.fun/
         avatar: /konosuba/plume.svg
+      - name: 深夜读书会
+        link: https://ritdon.com/
+        avatar: /konosuba/plume.svg
 ---
