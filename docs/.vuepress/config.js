@@ -51,6 +51,9 @@ export default defineUserConfig({
     lastUpdated: false,
     contributors: false,
 
-    markdown: { math: false }
+    markdown: {
+      annotation: true,
+      math: false
+    }
   }),
 });
