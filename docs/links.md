@@ -16,6 +16,16 @@ groups:
         link: https://konosubafd.jp/
         avatar: https://pbs.twimg.com/profile_images/1840632965216473088/teWe63lc.jpg
         desc: 「この素晴らしい世界に祝福を！ファンタスティックデイズ（このファン）」の公式サイト。「このすば」がスマートフォンゲームで登場！オリジナルストーリーをフルボイスで楽しもう！
+      - name: KADOKAWA 官方网站
+        link: https://www.kadokawa.co.jp/
+        avatar: /konosuba/plume.svg
+      - name: 角川 Sneaker 文库官方网站
+        link: https://sneakerbunko.jp/
+        avatar: /konosuba/plume.svg
+      - name: 台湾角川官方网站
+        link: https://www.kadokawa.com.tw/
+        avatar: /konosuba/images/shared/kadokawa-tw-logo-title.avif
+
   - title: 社交媒体
     list:
       - name: 暁なつめ博客
@@ -46,6 +56,7 @@ groups:
         link: https://x.com/konosubafd
         avatar: https://pbs.twimg.com/profile_images/1840632965216473088/teWe63lc.jpg
         desc: 人気TVアニメ「このすば」初のスマホゲーム『このファン』公式アカウントです。
+
   - title: 社区
     list:
       - name: Reddit 社区
@@ -71,6 +82,7 @@ groups:
       - name: MyAnimeList
         link: https://myanimelist.net/anime/30831
         avatar: /konosuba/plume.svg
+
   - title: 流媒体
     list:
       - name: ABEMA
@@ -91,6 +103,7 @@ groups:
       - name: bilibili
         link: https://www.bilibili.com/bangumi/media/md21118996
         avatar: /konosuba/plume.svg
+
   - title: 资源
     list:
       - name: Z-Library
