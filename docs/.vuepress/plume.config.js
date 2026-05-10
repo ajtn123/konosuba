@@ -35,6 +35,41 @@ export default defineThemeConfig({
           collapsed: false,
           prefix: 'main',
           items: 'auto'
+        },
+        {
+          text: '外传',
+          link: '#外传',
+          collapsed: false,
+          prefix: 'aside',
+          items: 'auto'
+        },
+        {
+          text: '为美好的世界献上爆焰！',
+          link: '#为美好的世界献上爆焰',
+          collapsed: false,
+          prefix: 'bakuen',
+          items: 'auto'
+        },
+        {
+          text: '续・为美好的世界献上爆焰！',
+          link: '#续・为美好的世界献上爆焰',
+          collapsed: false,
+          prefix: 'continued',
+          items: 'auto'
+        },
+        {
+          text: '绕道而行！',
+          link: '#绕道而行',
+          collapsed: false,
+          prefix: 'detour',
+          items: 'auto'
+        },
+        {
+          text: 'EXTRA 让笨蛋登上舞台吧！',
+          link: '#extra-让笨蛋登上舞台吧',
+          collapsed: false,
+          prefix: 'extra',
+          items: 'auto'
         }
       ]
     },
