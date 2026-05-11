@@ -62,3 +62,4 @@ title: 目录
 - [第一季 BD 全卷特典 为白虎奉上加护](./short/S3.md)
 - [第一季 BD 第二卷特典 阿克塞尔的爆裂侦探](./short/S4.md)
 - [BD 特典 爆裂红流](./short/S5.md)
+- [BD 特典 注意冒牌货！](./short/S6.md)
