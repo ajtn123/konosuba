@@ -60,6 +60,7 @@ title: 目录
 - [入场特典 红魔之鄉篇&阿克塞尔篇](./short/S1.md)
 - [三嶋くろね画集 Cheers！我が名は——](./short/S2.md)
 - [动画 BD 特典](./short/S3.md)
+- [ComicALIVE 特典 不死祭进行中](./short/S4.md)
 - [向着爆裂道的第一步](./short/S7.md)
 - [异世界式神之手](./short/S8.md)
 - [感谢祭特典](./short/S9.md)
