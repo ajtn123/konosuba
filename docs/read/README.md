@@ -64,3 +64,4 @@ title: 目录
 - [BD 特典 爆裂红流](./short/S5.md)
 - [BD 特典 注意冒牌货！](./short/S6.md)
 - [向着爆裂道的第一步](./short/S7.md)
+- [异世界式神之手](./short/S8.md)
