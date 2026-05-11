@@ -24,6 +24,9 @@ config:
       - title: kazano
         details: © 译者
         icon: tabler:language
+      - title: 貓月齋
+        details: © 译者
+        icon: tabler:language
       - title: 昼熊
         details: © 作者
         icon: tabler:pencil
@@ -31,6 +34,9 @@ config:
         details: © 插图
         icon: tabler:image-generation
       - title: 林星宇
+        details: © 译者
+        icon: tabler:language
+      - title: 林孟潔
         details: © 译者
         icon: tabler:language
       - title: 角川书店
