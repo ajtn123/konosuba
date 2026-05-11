@@ -10,6 +10,7 @@
 }
 
 .vp-copyright p:nth-of-type(2),
+blockquote::before,
 .copyright-mask {
-    display: none !important;
+    display: none;
 }

@@ -105,6 +105,8 @@ config:
         details: 译者
       - title: 夜宸o
         details: 校对
+      - title: 加载内容fail
+        details: 译者
       - title: 轻之国度
       - title: 百度贴吧
       - title: 惠痴汉化组

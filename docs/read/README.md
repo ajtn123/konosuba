@@ -62,6 +62,7 @@ title: 目录
 - [动画 BD 特典](./short/S3.md)
 - [ComicALIVE 特典 不死祭进行中](./short/S4.md)
 - [Re:ゼロ × このすば](./short/S5.md)
+- [『另一道春天的风景线』](./short/S6.md)
 - [向着爆裂道的第一步](./short/S7.md)
 - [异世界式神之手](./short/S8.md)
 - [感谢祭特典](./short/S9.md)
