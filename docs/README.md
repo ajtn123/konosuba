@@ -101,7 +101,12 @@ config:
         details: 译者
       - title: 无口控@信赖
         details: 译者
+      - title: 御坂9982番
+        details: 译者
+      - title: 夜宸o
+        details: 校对
       - title: 轻之国度
+      - title: 百度贴吧
       - title: 惠痴汉化组
       - title: 虚空文学旅团
 ---
