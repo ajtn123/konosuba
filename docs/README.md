@@ -66,7 +66,7 @@ config:
       - title: linpop
         details: 图源
       - title: 路过的路人C
-        details: 译者 / 录入
+        details: 译者 / 录入 / 协力
       - title: 朝午昏夜
         details: 译者
       - title: 一绪
@@ -82,6 +82,12 @@ config:
       - title: 发热的红
         details: 资源
       - title: 路人
+        details: 译者
+      - title: a啦a啦FT
+        details: 译者
+      - title: 龙之谷的小游侠
+        details: 译者
+      - title: 上条当麻X御坂
         details: 译者
       - title: 轻之国度
       - title: 惠痴汉化组
