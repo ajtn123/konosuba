@@ -66,7 +66,7 @@ config:
       - title: linpop
         details: 图源
       - title: 路过的路人C
-        details: 译者 / 录入 / 协力 / 资源
+        details: 译者 / 录入 / 协力 / 资源 / 校对
       - title: 朝午昏夜
         details: 译者
       - title: 一绪
@@ -88,11 +88,11 @@ config:
       - title: 龙之谷的小游侠
         details: 译者
       - title: 上条当麻X御坂
-        details: 协力
+        details: 译者 / 协力
       - title: 书_无口控
-        details: 校对
+        details: 译者 / 校对
       - title: 游音
-        details: 译者
+        details: 译者 / 校对
       - title: 鬼巫女酔歌
         details: 资源
       - title: 1223122sdsx
@@ -103,13 +103,27 @@ config:
         details: 译者
       - title: 御坂9982番
         details: 译者
-      - title: 夜宸º
-        details: 校对 / 录入
+      - title: 夜宸
+        details: 校对 / 录入 / 资源
       - title: 加载内容fail
         details: 译者
       - title: 春夏秋冬
         details: 校对
       - title: 落羽
+        details: 译者
+      - title: 柊圣十郎
+        details: 译者
+      - title: 爆裂散步小鸡
+        details: 译者
+      - title: XX
+        details: 资源
+      - title: 0719584ms
+        details: 译者
+      - title: zzsqbb
+        details: 协力
+      - title: 夜大
+        details: 图源
+      - title: tg993986
         details: 译者
       - title: 轻之国度
       - title: 百度贴吧
