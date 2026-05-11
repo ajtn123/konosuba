@@ -63,3 +63,4 @@ title: 目录
 - [第一季 BD 第二卷特典 阿克塞尔的爆裂侦探](./short/S4.md)
 - [BD 特典 爆裂红流](./short/S5.md)
 - [BD 特典 注意冒牌货！](./short/S6.md)
+- [向着爆裂道的第一步](./short/S7.md)
