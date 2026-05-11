@@ -130,6 +130,9 @@ groups:
       - name: CG Translations
         link: https://cgtranslations.me/konosuba/
         avatar: /konosuba/plume.svg
+      - name: acg123
+        link: https://link3.cc/acg123
+        avatar: /konosuba/plume.svg
       - name: 轻之国度
         link: https://www.lightnovel.fun/
         avatar: /konosuba/plume.svg

@@ -42,6 +42,7 @@ title: 目录
 1. [绕道而行！](./detour/D1.md)
 2. [绕道而行！第 2 次！](./detour/D2.md)
 3. [绕道而行！第 3 次！](./detour/D3.md)
+3. [绕道而行！第 4 次！](./detour/D4.md)
 
 ## EXTRA 让笨蛋登上舞台吧！
 
