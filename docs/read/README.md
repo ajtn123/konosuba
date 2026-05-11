@@ -69,3 +69,4 @@ title: 目录
 - [『为朋友着想』](./short/SA.md)
 - [为丰年祭献上祝福](./short/SB.md)
 - [Monsters' Night！](./short/SC.md)
+- [Double 魔法师](./short/SD.md)

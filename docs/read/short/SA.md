@@ -5,7 +5,7 @@ copyright:
   source: https://tieba.baidu.com/p/6418148272
 ---
 
-> 特别 SS 3 位 达克尼斯特典
+> 人气投票特典 3 位 达克尼斯
 
 那天。
 
