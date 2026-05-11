@@ -28,10 +28,6 @@ groups:
 
   - title: 社交媒体
     list:
-      - name: 暁なつめ博客
-        link: http://natsumeakatsuki.blog.fc2.com/
-        avatar: /konosuba/plume.svg
-        desc: この素晴らしい世界に祝福を！などを書いてます。作家？暁なつめの小説情報、書き下ろし小説、宣伝、その他諸々なブログ。
       - name: 暁なつめ成为小说家吧主页
         link: https://mypage.syosetu.com/290193/
         avatar: /konosuba/plume.svg
@@ -48,6 +44,20 @@ groups:
         link: https://x.com/mishima_kurone
         avatar: https://pbs.twimg.com/profile_images/1956281623491829761/-YKhwJEF.jpg
         desc: 白髪娘を愛する絵描き。
+      - name: 昼熊成为小说家吧主页
+        link: https://mypage.syosetu.com/242986/
+        avatar: /konosuba/plume.svg
+      - name: 昼熊 X 主页
+        link: https://x.com/jihanki_hakkon
+        avatar: https://pbs.twimg.com/profile_images/1668925510355939328/rL_hnDyV.jpg
+      - name: 憂姫はぐれ pixiv 主页
+        link: https://www.pixiv.net/users/10920
+        avatar: /konosuba/plume.svg
+        desc: はぐれでーっす。どうぞよろしく。
+      - name: 憂姫はぐれ X 主页
+        link: https://x.com/yuukihagure
+        avatar: https://pbs.twimg.com/profile_images/1614155924637097987/mTRIP5rP.jpg
+        desc: ゆうきはぐれ
       - name: 动画版 X 主页
         link: https://x.com/konosubaanime
         avatar: https://pbs.twimg.com/profile_images/636377072571518976/byhM-W6V.jpg
@@ -56,6 +66,10 @@ groups:
         link: https://x.com/konosubafd
         avatar: https://pbs.twimg.com/profile_images/1840632965216473088/teWe63lc.jpg
         desc: 人気TVアニメ「このすば」初のスマホゲーム『このファン』公式アカウントです。
+      - name: 暁なつめ博客
+        link: http://natsumeakatsuki.blog.fc2.com/
+        avatar: /konosuba/plume.svg
+        desc: この素晴らしい世界に祝福を！などを書いてます。作家？暁なつめの小説情報、書き下ろし小説、宣伝、その他諸々なブログ。
 
   - title: 社区
     list:

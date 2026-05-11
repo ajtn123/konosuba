@@ -16,12 +16,21 @@ config:
   - type: features
     features:
       - title: 暁なつめ
-        details: © 作者
+        details: © 作者 / 原案
         icon: tabler:pencil
       - title: 三嶋くろね
-        details: © 插图
+        details: © 插图 / 角色原案
         icon: tabler:image-generation
       - title: kazano
+        details: © 译者
+        icon: tabler:language
+      - title: 昼熊
+        details: © 作者
+        icon: tabler:pencil
+      - title: 憂姫はぐれ
+        details: © 插图
+        icon: tabler:image-generation
+      - title: 林星宇
         details: © 译者
         icon: tabler:language
       - title: 角川书店
@@ -48,4 +57,6 @@ config:
         details: 译者
       - title: 月灵
         details: 图源 / 录入
+      - title: linpop
+        details: 图源
 ---
