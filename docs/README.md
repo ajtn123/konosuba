@@ -95,6 +95,12 @@ config:
         details: 译者
       - title: 鬼巫女酔歌
         details: 资源
+      - title: 1223122sdsx
+        details: 资源
+      - title: GTX3001
+        details: 译者
+      - title: 无口控@信赖
+        details: 译者
       - title: 轻之国度
       - title: 惠痴汉化组
       - title: 虚空文学旅团
