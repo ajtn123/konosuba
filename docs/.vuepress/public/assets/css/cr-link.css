@@ -1,0 +1,7 @@
+.vp-copyright p:nth-of-type(2) {
+    display: unset;
+}
+
+.vp-copyright p:nth-of-type(3) {
+    display: none;
+}
