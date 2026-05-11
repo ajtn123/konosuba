@@ -91,6 +91,10 @@ config:
         details: 协力
       - title: 书_无口控
         details: 校对
+      - title: 游音
+        details: 译者
+      - title: 鬼巫女酔歌
+        details: 资源
       - title: 轻之国度
       - title: 惠痴汉化组
       - title: 虚空文学旅团
