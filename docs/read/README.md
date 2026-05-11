@@ -25,6 +25,7 @@ title: 目录
 ## 外传
 
 - [找面具恶魔指点迷津！](./aside/A1.md)
+- [Fantastic Days](./aside/A2.md)
 
 ## 为美好的世界献上爆焰！
 

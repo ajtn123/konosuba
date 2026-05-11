@@ -77,6 +77,9 @@ config:
         details: 协力
       - title: 樱懿
         details: 协力
+      - title: Monkey
+        details: 图源 / 录入
       - title: 轻之国度
       - title: 惠痴汉化组
+      - title: 虚空文学旅团
 ---
