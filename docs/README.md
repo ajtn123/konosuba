@@ -75,6 +75,8 @@ config:
         details: 资源 / 协力
       - title: no3body
         details: 协力
+      - title: 樱懿
+        details: 协力
       - title: 轻之国度
       - title: 惠痴汉化组
 ---

@@ -71,6 +71,15 @@ export default defineThemeConfig({
     },
   ]),
 
+  copyright: {
+    author: {
+      name: '暁なつめ / 三嶋くろね / 相关版权方',
+      url: '/'
+    },
+    creation: 'reprint',
+    license: ''
+  },
+
   footer: {
     message: '阿克西斯教徒努力就能做到，失败也不是信徒的错，不能成功都是世界的错。从不开心的事情中逃避即可，逃避不是失败。'
   },

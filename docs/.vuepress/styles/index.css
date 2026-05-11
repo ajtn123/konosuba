@@ -4,3 +4,12 @@
     flex-wrap: wrap;
     gap: 0 1em;
 }
+
+.vp-copyright {
+    background: var(--vp-c-bg-alt) !important;
+}
+
+.vp-copyright p:nth-of-type(2),
+.copyright-mask {
+    display: none !important;
+}
