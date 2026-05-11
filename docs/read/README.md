@@ -68,3 +68,4 @@ title: 目录
 - [感谢祭特典](./short/S9.md)
 - [『为朋友着想』](./short/SA.md)
 - [为丰年祭献上祝福](./short/SB.md)
+- [Monsters' Night！](./short/SC.md)
