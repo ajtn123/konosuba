@@ -76,7 +76,11 @@ groups:
       - name: Reddit 社区
         link: https://www.reddit.com/r/Konosuba/
         avatar: /konosuba/plume.svg
-        desc: The subreddit for Kono Subarashii Sekai ni Shukufuku wo!
+        desc: r/Konosuba
+      - name: 百度贴吧
+        link: https://tieba.baidu.com/f?kw=为美好的世界献上祝福
+        avatar: /konosuba/plume.svg
+        desc: 为美好的世界献上祝福吧
       - name: 巴哈姆特哈啦区
         link: https://forum.gamer.com.tw/B.php?bsn=46218
         avatar: /konosuba/plume.svg

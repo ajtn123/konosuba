@@ -65,4 +65,16 @@ config:
         details: 图源 / 录入
       - title: linpop
         details: 图源
+      - title: 路过的路人C
+        details: 译者
+      - title: 朝午昏夜
+        details: 译者
+      - title: 一绪
+        details: 译者 / 校对
+      - title: 夜宸
+        details: 资源 / 协力
+      - title: no3body
+        details: 协力
+      - title: 轻之国度
+      - title: 惠痴汉化组
 ---
