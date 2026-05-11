@@ -66,7 +66,7 @@ config:
       - title: linpop
         details: 图源
       - title: 路过的路人C
-        details: 译者 / 录入 / 协力
+        details: 译者 / 录入 / 协力 / 资源
       - title: 朝午昏夜
         details: 译者
       - title: 一绪
@@ -103,8 +103,8 @@ config:
         details: 译者
       - title: 御坂9982番
         details: 译者
-      - title: 夜宸o
-        details: 校对
+      - title: 夜宸º
+        details: 校对 / 录入
       - title: 加载内容fail
         details: 译者
       - title: 轻之国度

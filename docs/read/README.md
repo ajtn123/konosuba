@@ -67,3 +67,4 @@ title: 目录
 - [异世界式神之手](./short/S8.md)
 - [感谢祭特典](./short/S9.md)
 - [『为朋友着想』](./short/SA.md)
+- [为丰年祭献上祝福](./short/SB.md)
