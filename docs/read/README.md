@@ -59,9 +59,7 @@ title: 目录
 
 - [入场特典 红魔之鄉篇&阿克塞尔篇](./short/S1.md)
 - [三嶋くろね画集 Cheers！我が名は——](./short/S2.md)
-- [第一季 BD 全卷特典 为白虎奉上加护](./short/S3.md)
-- [第一季 BD 第二卷特典 阿克塞尔的爆裂侦探](./short/S4.md)
-- [BD 特典 爆裂红流](./short/S5.md)
-- [BD 特典 注意冒牌货！](./short/S6.md)
+- [动画 BD 特典](./short/S3.md)
 - [向着爆裂道的第一步](./short/S7.md)
 - [异世界式神之手](./short/S8.md)
+- [感谢祭特典](./short/S9.md)
