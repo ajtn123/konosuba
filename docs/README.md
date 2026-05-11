@@ -66,7 +66,7 @@ config:
       - title: linpop
         details: 图源
       - title: 路过的路人C
-        details: 译者
+        details: 译者 / 录入
       - title: 朝午昏夜
         details: 译者
       - title: 一绪
@@ -79,6 +79,10 @@ config:
         details: 协力
       - title: Monkey
         details: 图源 / 录入
+      - title: 发热的红
+        details: 资源
+      - title: 路人
+        details: 译者
       - title: 轻之国度
       - title: 惠痴汉化组
       - title: 虚空文学旅团

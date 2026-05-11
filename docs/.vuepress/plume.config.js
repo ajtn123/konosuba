@@ -66,6 +66,13 @@ export default defineThemeConfig({
           collapsed: false,
           prefix: 'extra',
           items: 'auto'
+        },
+        {
+          text: '短篇',
+          link: '#短篇',
+          collapsed: false,
+          prefix: 'short',
+          items: 'auto'
         }
       ]
     },
