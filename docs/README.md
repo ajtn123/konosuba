@@ -88,7 +88,9 @@ config:
       - title: 龙之谷的小游侠
         details: 译者
       - title: 上条当麻X御坂
-        details: 译者
+        details: 协力
+      - title: 书_无口控
+        details: 校对
       - title: 轻之国度
       - title: 惠痴汉化组
       - title: 虚空文学旅团
