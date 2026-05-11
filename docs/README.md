@@ -107,6 +107,8 @@ config:
         details: 校对 / 录入
       - title: 加载内容fail
         details: 译者
+      - title: 春夏秋冬
+        details: 校对
       - title: 轻之国度
       - title: 百度贴吧
       - title: 惠痴汉化组
