@@ -71,3 +71,4 @@ title: 目录
 - [Monsters' Night！](./short/SC.md)
 - [Double 魔法师](./short/SD.md)
 - [为这残酷的世界献上祝福！](./short/SE.md)
+- [祝福短篇 吸血鬼](./short/SF.md)
