@@ -45,7 +45,7 @@ export default defineUserConfig({
   ],
 
   theme: plumeTheme({
-    hostname: 'https://ajtn123.github.io/konosuba',
+    hostname: 'https://ajtn123.github.io',
 
     docsRepo: 'https://github.com/ajtn123/konosuba',
     docsDir: 'docs',
