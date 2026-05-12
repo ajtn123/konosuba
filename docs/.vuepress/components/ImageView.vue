@@ -6,6 +6,8 @@ const props = withDefaults(defineProps<{
   src?: string
   alt?: string
   collapsed?: boolean
+  width?: number | string
+  height?: number | string
 }>(), {
   src: '',
   alt: '',
@@ -55,7 +57,7 @@ const toggleCollapse = () => {
     </div>
     <div v-show="!isCollapsed" class="iv-content">
       <div v-show="!isTextView" class="iv-image-view">
-        <img :src="displaySrc" :alt="alt" loading="lazy" />
+        <img :src="displaySrc" :alt="alt" :width="width" :height="height" loading="lazy" />
       </div>
       <div v-show="isTextView" class="iv-text-view">
         <slot />

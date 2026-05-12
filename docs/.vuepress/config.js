@@ -1,6 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite';
 import { defineUserConfig } from 'vuepress';
 import { plumeTheme } from 'vuepress-theme-plume';
+import { imageSizeInjectorPlugin } from './plugins/imageSizeInjector.js';
 
 export default defineUserConfig({
   base: '/konosuba/',
@@ -17,7 +18,7 @@ export default defineUserConfig({
   extendsBundlerOptions: (options, app) => {
     options.viteOptions ??= {};
     options.viteOptions.build ??= {};
-    options.viteOptions.build.chunkSizeWarningLimit = 4096;
+    options.viteOptions.build.chunkSizeWarningLimit = 2 << 16;
     options.viteOptions.build.rolldownOptions ??= {};
     options.viteOptions.build.rolldownOptions.checks ??= {};
     options.viteOptions.build.rolldownOptions.checks.pluginTimings = false;
@@ -38,6 +39,10 @@ export default defineUserConfig({
   shouldPrefetch: false,
   search: { provider: 'local' },
   markdown: { breaks: true },
+
+  plugins: [
+    imageSizeInjectorPlugin(),
+  ],
 
   theme: plumeTheme({
     hostname: 'https://ajtn123.github.io/konosuba',
