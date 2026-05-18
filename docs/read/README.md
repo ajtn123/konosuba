@@ -58,7 +58,7 @@ title: 目录
 ## 短篇
 
 - [红魔之鄉篇 & 阿克塞尔篇](./short/S1.md)
-- [三嶋くろね画集 Cheers！我が名は——](./short/S2.md)
+- [我が名は——](./short/S2.md)
 - [动画 BD 特典](./short/S3.md)
 - [不死祭进行中](./short/S4.md)
 - [Re:ゼロ × このすば](./short/S5.md)
