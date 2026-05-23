@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import { defineUserConfig } from 'vuepress';
 import { plumeTheme } from 'vuepress-theme-plume';
 import { imageSizeInjectorPlugin } from './plugins/imageSizeInjector.js';
+import { rubyEnhancerPlugin } from './plugins/rubyEnhancer.js';
 
 export default defineUserConfig({
   base: '/konosuba/',
@@ -42,6 +43,7 @@ export default defineUserConfig({
 
   plugins: [
     imageSizeInjectorPlugin(),
+    rubyEnhancerPlugin(),
   ],
 
   theme: plumeTheme({
