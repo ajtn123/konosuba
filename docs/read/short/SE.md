@@ -1,8 +1,6 @@
 ---
 title: 为这残酷的世界献上祝福！
-head: [['link', { rel: 'stylesheet', href: '/konosuba/assets/css/cr-link.css' }]]
-copyright:
-  source: https://tieba.baidu.com/p/6665178143
+reprint: https://tieba.baidu.com/p/6665178143
 ---
 
 > The Sneaker LEGEND 特典

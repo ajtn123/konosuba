@@ -5,12 +5,10 @@
     gap: 0 1em;
 }
 
-.vp-copyright {
-    background: var(--vp-c-bg-alt) !important;
+.vp-footer .copyright a {
+    text-decoration: none;
 }
 
-.vp-copyright p:nth-of-type(2),
-blockquote::before,
-.copyright-mask {
+blockquote::before {
     display: none;
 }

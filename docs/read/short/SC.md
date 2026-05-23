@@ -1,8 +1,6 @@
 ---
 title: Monsters' Night！
-head: [['link', { rel: 'stylesheet', href: '/konosuba/assets/css/cr-link.css' }]]
-copyright:
-  source: https://tieba.baidu.com/p/6808425314
+reprint: https://tieba.baidu.com/p/6808425314
 ---
 
 > 红传说 BD 特典

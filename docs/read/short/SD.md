@@ -1,8 +1,6 @@
 ---
 title: Double 魔法师
-head: [['link', { rel: 'stylesheet', href: '/konosuba/assets/css/cr-link.css' }]]
-copyright:
-  source: https://tieba.baidu.com/p/6456787432
+reprint: https://tieba.baidu.com/p/6456787432
 ---
 
 > 人气投票特典 2 位 惠惠

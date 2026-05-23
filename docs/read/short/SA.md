@@ -1,8 +1,6 @@
 ---
 title: 『为朋友着想』
-head: [['link', { rel: 'stylesheet', href: '/konosuba/assets/css/cr-link.css' }]]
-copyright:
-  source: https://tieba.baidu.com/p/6418148272
+reprint: https://tieba.baidu.com/p/6418148272
 ---
 
 > 人气投票特典 3 位 达克尼斯
