@@ -4,16 +4,13 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
-
 jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-node@v6
         with:
@@ -28,7 +25,8 @@ jobs:
         run: pnpm run docs:build
 
       - name: 部署
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          branch: gh-pages
-          folder: docs/.vuepress/dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs/.vuepress/dist
+          force_orphan: true
