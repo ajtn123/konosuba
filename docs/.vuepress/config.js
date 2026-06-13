@@ -1,8 +1,8 @@
 import { viteBundler } from '@vuepress/bundler-vite';
 import { defineUserConfig } from 'vuepress';
 import { plumeTheme } from 'vuepress-theme-plume';
-import { imageSizeInjectorPlugin } from './plugins/imageSizeInjector.js';
-import { rubyEnhancerPlugin } from './plugins/rubyEnhancer.js';
+import { imageViewSizePlugin } from './plugins/imageViewSize.js';
+import { rubyFallbackPlugin } from './plugins/rubyFallback.js';
 
 export default defineUserConfig({
   base: '/konosuba/',
@@ -42,8 +42,8 @@ export default defineUserConfig({
   markdown: { breaks: true },
 
   plugins: [
-    imageSizeInjectorPlugin(),
-    rubyEnhancerPlugin(),
+    imageViewSizePlugin(),
+    rubyFallbackPlugin(),
   ],
 
   theme: plumeTheme({
