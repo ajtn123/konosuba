@@ -19,7 +19,7 @@ export default defineUserConfig({
   extendsBundlerOptions: (options, app) => {
     options.viteOptions ??= {};
     options.viteOptions.build ??= {};
-    options.viteOptions.build.chunkSizeWarningLimit = 2 << 16;
+    options.viteOptions.build.chunkSizeWarningLimit = 1 << 16;
     options.viteOptions.build.rolldownOptions ??= {};
     options.viteOptions.build.rolldownOptions.checks ??= {};
     options.viteOptions.build.rolldownOptions.checks.pluginTimings = false;
