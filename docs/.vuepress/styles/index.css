@@ -3,8 +3,16 @@
 }
 
 ::selection {
-    background-color: var(--vp-c-brand-1);
-    color: white;
+    background-color: transparent;
+    text-decoration: underline wavy;
+}
+
+.vp-home-feature {
+    transition: box-shadow var(--vp-t-color);
+}
+
+.vp-home-feature:hover {
+    box-shadow: var(--vp-shadow-2);
 }
 
 .vp-doc-aside-outline .root>li>.nested,
