@@ -10,6 +10,8 @@
     "docs:dev": "vuepress dev docs"
   },
   "devDependencies": {
-    "vuepress-theme-plume": "1.0.0-rc.203"
+    "@vuepress/bundler-vite": "2.0.0-rc.30",
+    "typescript": "^6.0.3",
+    "vuepress-theme-plume": "1.0.0-rc.204"
   }
 }
