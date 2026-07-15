@@ -8,7 +8,7 @@
 }
 
 .vp-home-feature {
-    transition: box-shadow var(--vp-t-color);
+    transition: all var(--vp-t-color);
 }
 
 .vp-home-feature:hover {
