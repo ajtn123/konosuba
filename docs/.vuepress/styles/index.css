@@ -7,6 +7,11 @@
     text-decoration: underline wavy;
 }
 
+h1.hero-name::selection {
+    color: transparent;
+    text-decoration-color: var(--vp-c-default-soft);
+}
+
 .vp-home-feature {
     transition: all var(--vp-t-color) !important;
 }
@@ -22,8 +27,8 @@
     gap: 0 1em;
 }
 
-.vp-footer .copyright a {
-    text-decoration: none;
+a {
+    text-decoration: none !important;
 }
 
 blockquote::before {
